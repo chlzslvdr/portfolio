@@ -24,7 +24,7 @@
 
 ### ☁️ Cloud, DevOps & Hosting
 `Docker` · `Kubernetes` · `AWS` · `Azure DevOps`  
-`Netlify` · `Vercel` · `SendGrid`
+`Netlify` · `Vercel` · `SendGrid` · `Jenkins`
 
 ### 🗃️ Databases
 `MongoDB` · `PostgreSQL` · `Redis` · `Elasticsearch`
@@ -36,7 +36,10 @@
 `GitHub`
 
 ### 📈 Analytics & Experimentation
-`VWO`
+`Wingify`
+
+### 💻 AI & Machine Learning
+`ChatGPT` · `Claude` · `Github Copilot`
 
 ---
 
